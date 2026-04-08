@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Data / models
+*.pkl
+*.csv
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
